@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="328007ec-269e-435e-9b2b-06ed9d84ea4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YEn4kSMGaliTIwlL2xYYKnfPr7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crawExpendData/crawUtil" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\编程项目\Python\Django_t\crawExpendData\crawUtil" />
+      <recent name="D:\编程项目\Python\Django_t\demo1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.Django_t">
+    <configuration name="domain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Django_t" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawExpendData/crawUtil" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawExpendData/crawUtil/domain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Django_t" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawExpendData" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawExpendData/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Django_t" type="Python.DjangoServer" factoryName="Django server" singleton="false">
+      <module name="Django_t" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django_t.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\Django_t\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.domain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="328007ec-269e-435e-9b2b-06ed9d84ea4f" name="Default Changelist" comment="" />
+      <created>1582516432051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582516432051</updated>
+      <workItem from="1582516440503" duration="3873000" />
+      <workItem from="1582794340085" duration="50000" />
+      <workItem from="1582794413324" duration="11349000" />
+      <workItem from="1582942443065" duration="9040000" />
+      <workItem from="1582954171350" duration="12333000" />
+      <workItem from="1582968122214" duration="13190000" />
+      <workItem from="1583033880705" duration="1245000" />
+      <workItem from="1583035279064" duration="452000" />
+      <workItem from="1583035748774" duration="5648000" />
+      <workItem from="1583045934527" duration="7545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583035878289">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583035878289" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582964236627">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1582964236627" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1582534689188">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1582534689188" />
+    <state width="2517" height="406" key="GridCell.Tab.0.bottom" timestamp="1583070109450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="406" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583070109450" />
+    <state width="2517" height="406" key="GridCell.Tab.0.center" timestamp="1583070109449">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="406" key="GridCell.Tab.0.center/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583070109449" />
+    <state width="2517" height="406" key="GridCell.Tab.0.left" timestamp="1583070109449">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="406" key="GridCell.Tab.0.left/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583070109449" />
+    <state width="2517" height="406" key="GridCell.Tab.0.right" timestamp="1583070109449">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="406" key="GridCell.Tab.0.right/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583070109449" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1583046304108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583046304108" />
+    <state x="960" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1583045935034">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.278.1920.1040@0.0.2560.1400" timestamp="1583045935034" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django_t$tests.coverage" NAME="tests Coverage Results" MODIFIED="1583038030275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawExpendData" />
+    <SUITE FILE_PATH="coverage/Django_t$domain.coverage" NAME="domain Coverage Results" MODIFIED="1582968323355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawExpendData/crawUtil" />
+  </component>
+</project>
